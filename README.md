@@ -1,4 +1,5 @@
 # BingeBot
 A Simple Swift Program that randomly selects a program from the entered list.
 
-![](Images/BingeBpt%20screenshot.png)
+
+<img src = "Images/BingeBpt%20screenshot.png"  height = "500" >
